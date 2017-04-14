@@ -10,6 +10,6 @@
 
 Программа-пример работает из командной строки.
 
-* (pointer to header)[##Header]
+* (pointer to header)[#Header]
 
 ## Header
