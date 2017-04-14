@@ -10,6 +10,6 @@
 
 Программа-пример работает из командной строки.
 
-* [pointer](DynamicStringClass/#Header)
+* [pointer](#Header)
 
 ## Header
